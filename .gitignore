@@ -1,0 +1,6 @@
+# Solo se publica la página
+*.pdf
+*.docx
+*.doc
+*.xlsx
+_t*.html
